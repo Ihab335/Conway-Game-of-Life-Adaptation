@@ -1,17 +1,22 @@
-Year 1 - CW3
-Adaptation of Conway's Game of Life Simulation
-This project is an extension of Conway's Game of Life, developed as part of a computer science coursework assignment. The original Game of Life, a cellular automaton devised by mathematician John Conway, simulates simple life forms on a grid, evolving based on predefined rules.
+# Year 1 - CW3  
+## Adaptation of Conway's Game of Life Simulation  
 
-Project Overview
-For this coursework, we expanded upon the classic Game of Life by:
+This project is an extension of **Conway's Game of Life**, developed as part of a computer science coursework assignment. The original **Game of Life**, a cellular automaton devised by mathematician **John Conway**, simulates simple life forms on a grid, evolving based on predefined rules.  
 
-Introducing new rules for cell survival, birth, and death.
-Adding unique life forms, each with distinct behaviors and survival strategies.
-Implementing dynamic interactions between life forms, creating emergent gameplay and unpredictable patterns.
-The goal was to explore how modifying the fundamental rules and adding complexity could generate new dynamics within the simulation.
+## Project Overview  
 
-Key Features
-Enhanced Ruleset: Expanded survival mechanics introduce greater variation and unpredictability.
-New Life Forms: Unique entities such as viruses and chameleons, each with specialized behaviors.
-Interactive Ecosystem: Life forms interact in creative and unexpected ways, making the simulation more engaging and dynamic.
-This adaptation showcases how small rule modifications can lead to rich emergent behavior, making the Game of Life more than just a simple cellular automaton—it becomes a living, evolving world.
+For this coursework, we expanded upon the classic Game of Life by:  
+
+- Introducing **new rules** for cell survival, birth, and death.  
+- Adding **unique life forms**, each with distinct behaviors and survival strategies.  
+- Implementing **dynamic interactions** between life forms, creating emergent gameplay and unpredictable patterns.  
+
+The goal was to explore how modifying the fundamental rules and adding complexity could generate **new dynamics** within the simulation.  
+
+## Key Features  
+
+- **Enhanced Ruleset:** Expanded survival mechanics introduce greater variation and unpredictability.  
+- **New Life Forms:** Unique entities such as **viruses** and **chameleons**, each with specialized behaviors.  
+- **Interactive Ecosystem:** Life forms interact in **creative** and **unexpected** ways, making the simulation more engaging and dynamic.  
+
+This adaptation showcases how small rule modifications can lead to **rich emergent behavior**, making the Game of Life more than just a simple cellular automaton—it becomes a **living, evolving world**.
