@@ -22,6 +22,3 @@ The goal was to explore how modifying the fundamental rules and adding complexit
 - **Course:** Year 1 - Computer Science Coursework 3  
 - **Objective:** Extend and enhance Conway's Game of Life  
 
----
-
-This structure keeps the **focus on the project description** while still including the coursework information for context. Let me know if you want any further refinements! 🚀
