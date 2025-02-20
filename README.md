@@ -1,5 +1,4 @@
-# Year 1 - CW3  
-## Adaptation of Conway's Game of Life Simulation  
+# Adaptation of Conway's Game of Life Simulation  
 
 This project is an extension of **Conway's Game of Life**, developed as part of a computer science coursework assignment. The original **Game of Life**, a cellular automaton devised by mathematician **John Conway**, simulates simple life forms on a grid, evolving based on predefined rules.  
 
@@ -19,4 +18,10 @@ The goal was to explore how modifying the fundamental rules and adding complexit
 - **New Life Forms:** Unique entities such as **viruses** and **chameleons**, each with specialized behaviors.  
 - **Interactive Ecosystem:** Life forms interact in **creative** and **unexpected** ways, making the simulation more engaging and dynamic.  
 
-This adaptation showcases how small rule modifications can lead to **rich emergent behavior**, making the Game of Life more than just a simple cellular automaton—it becomes a **living, evolving world**.
+## Coursework Information  
+- **Course:** Year 1 - Computer Science Coursework 3  
+- **Objective:** Extend and enhance Conway's Game of Life  
+
+---
+
+This structure keeps the **focus on the project description** while still including the coursework information for context. Let me know if you want any further refinements! 🚀
